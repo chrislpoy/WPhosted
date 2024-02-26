@@ -1,0 +1,2 @@
+# WPhosted
+github pages host
